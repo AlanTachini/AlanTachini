@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Me chamo Alan e estou embarcando na jornada do mundo da programação.
+Olá! Me chamo Alan e estou embarcando na jornada da programação.
 
 
 ## 🌐 Socials:
