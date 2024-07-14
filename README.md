@@ -3,7 +3,7 @@
 
 - 🌱 Estou atualmente fazendo curso na **CodeAcademy**
 
-- 👨‍💻Meus repositórios: [https://github.com/Alan-Arlindo-Tachini?tab=repositories](https://github.com/Alan-Arlindo-Tachini?tab=repositories)
+- 👨‍💻Meus repositórios: [Repositório-Alan](https://github.com/Alan-Arlindo-Tachini?tab=repositories)
 
 - 📫 Meu e-mail: **alan.arlindo1234@gmail.com**
 
