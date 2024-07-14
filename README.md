@@ -5,7 +5,7 @@
 
 - 👨‍💻Meus repositórios: [https://github.com/Alan-Arlindo-Tachini?tab=repositories](https://github.com/Alan-Arlindo-Tachini?tab=repositories)
 
-- 📫 Me encontre: **alan.arlindo1234@gmail.com**
+- 📫 Meu e-mail: **alan.arlindo1234@gmail.com**
 
 <h3 align="left">Linkedin:</h3>
 <p align="left">
