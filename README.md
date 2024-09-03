@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Me chamo Alan</h1>
 <h3 align="center">Meu interesse pela tecnologia começou com a navegação na internet e como isso tudo funcionava, agora, estou estudando com foco em um conhecimento continuo afim de aprender como desenvolver essas tecnologias.</h3>
 
-- 🌱 Estou atualmente fazendo curso na **CodeAcademy** e faculdade de **Sistemas de Informação na Unifebe**
+- 🌱 Estou atualmente fazendo curso na **Codecademy** e faculdade de **Sistemas de Informação na Unifebe**
 
 - 👨‍💻Meus repositórios: [Repositório-Alan](https://github.com/Alan-Arlindo-Tachini?tab=repositories)
 
