@@ -3,7 +3,7 @@
 
 - 🌱 Estou atualmente fazendo curso na **Codecademy** e faculdade de **Sistemas de Informação na Unifebe**
 
-- 👨‍💻Meus repositórios: [Repositório-Alan](https://github.com/Alan-Arlindo-Tachini?tab=repositories)
+- 👨‍💻Meus repositórios: [Repositório-Alan](https://github.com/AlanTachini?tab=repositories)
 
 - 📫 Meu e-mail: **alan.arlindo1234@gmail.com**
 
